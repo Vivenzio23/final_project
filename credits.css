@@ -1,0 +1,30 @@
+*{margin: 0;}
+
+html{background-color: #F5E6E8;}
+
+header{padding: 35px;
+    text-align:left;
+    background-color: #967AA1;
+    color: #F5E6E8;
+    border-radius: 20px;
+  }
+
+
+  #li1{display: inline;
+    list-style-type: none;
+    padding: 0 20px;
+    text-decoration: underline;}
+    footer{text-align: center;
+        Background-color: hsl(278, 27%, 84%);
+        color: white;
+        padding: 15px 0;}
+    
+        #footer{position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 2rem;}
+    
+            #page-container {
+                position: relative;
+                min-height: 10vh;
+              }
